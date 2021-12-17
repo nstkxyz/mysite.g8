@@ -4,7 +4,7 @@
 lazy val root = (project in file("."))
   .enablePlugins(ScriptedPlugin)
   .settings(
-    name := "myblog-seed",
+    name := "myblog",
     test in Test := {
       val _ = (g8Test in Test).toTask("").value
     },
