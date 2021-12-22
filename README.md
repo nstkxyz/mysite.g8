@@ -1,4 +1,4 @@
-# myblog-seed.g8
+# myblog.g8
 
 ## Overview
 
