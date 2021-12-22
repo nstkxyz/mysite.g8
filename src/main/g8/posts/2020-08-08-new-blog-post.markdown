@@ -62,4 +62,35 @@ Suspendisse quis vulputate tortor.
 
 # Lists
 
-TBD
+Use asterisk for unordered lists.
+
+* First List Item
+* Second List Item
+* Third List Item
+
+Alternatively, use dashes for unordered lists.
+
+- First List Item
+- Second List Item
+- Third List item
+
+Or even plus signs.
+
++ First List Item
++ Second List Item
++ Third List Item
+
+Ordered lists.
+
+1. First List Item
+1. Second List Item
+1. Third List Item
+
+Nested lists.
+
+* First List Item
+* Second List Item
+  * Nested List Item 1
+  * Nested List Item 2
+* Third List Item
+
