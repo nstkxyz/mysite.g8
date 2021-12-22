@@ -138,3 +138,30 @@ Footnotes below.
 
     **Second** nested paragraph.
 [^2]: Some another smart article from Wikipedia. 
+
+# Tables
+
+Table with a title.
+
+| Country | Capital |  Population  |
+|   ---   |   ---   |    ---       |
+| Ireland | Dublin  |  5,014,450   |
+| Italy   | Rome    |  60,338,123  |
+
+Table without a title.
+
+| Ireland | Dublin  |  5,014,450   |
+| Italy   | Rome    |  60,338,123  |
+
+Table with a title and text alignment.
+
+| Country | Capital |  Population  |
+|   :---  |  :---:  |    ---:      |
+| Ireland | Dublin  |  5,014,450   |
+| Italy   | Rome    |  60,338,123  |
+
+# Task Lists
+
+- [x] Don't forget to buy coffee
+- [x] Don't forget to buy milk
+- [ ] Don't forget to buy potatoes
