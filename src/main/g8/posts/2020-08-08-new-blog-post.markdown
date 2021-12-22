@@ -96,8 +96,8 @@ Nested lists.
 
 # Links
 
-A link without a title: [A link without title](https://example.org).
-A link with a title: [A link wit title](https://example.org "Link Title").
+A link without a title: [A link without a title](https://example.org).
+A link with a title: [A link with a title](https://example.org "Link Title").
 
 # Images
 
@@ -115,3 +115,26 @@ A link with a title: [A link wit title](https://example.org "Link Title").
 > 
 > Second paragraph in a blockquote.
 
+# Horizontal Rules
+
+___
+
+# Fenced Code Blocks
+
+```
+case class Person(name: String, surname: String)
+```
+
+# Footnotes
+
+Water freezes at 0 degrees Celsius [^1].
+The speed of light in vacuum is 299792458 metres per second [^2].
+
+Footnotes below.
+
+[^1]: Some smart article from Wikipedia.
+    **First** nested paragraph.
+    Still the same paragraph.
+
+    **Second** nested paragraph.
+[^2]: Some another smart article from Wikipedia. 
