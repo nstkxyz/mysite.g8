@@ -4,7 +4,7 @@ ThisBuild / scalaVersion := "2.12.15"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "MySite",
+    name := "MySiteProject",
     libraryDependencies ++= Seq(
       "xyz.nstk" %% "mysite" % "0.1.0-SNAPSHOT",
       "xyz.nstk" %% "mysitedefaulttheme" % "0.1.0-SNAPSHOT"
